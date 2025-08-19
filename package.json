@@ -1,0 +1,25 @@
+{
+  "name": "capability-heatmap-component",
+  "version": "1.0.0",
+  "description": "A reusable and embeddable component for visualizing hierarchical capability data.",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "heatmap",
+    "component",
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^18.0.0 || ^19.0.0",
+    "react-dom": "^18.0.0 || ^19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}

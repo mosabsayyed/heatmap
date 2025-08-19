@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Heatmap Component",
+  "description": "A reusable and embeddable component for visualizing hierarchical capability data. Features a fluid heatmap overlay and separate controls for easy integration into any web application.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
